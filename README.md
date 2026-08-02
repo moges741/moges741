@@ -81,8 +81,6 @@ Building scalable and modern web applications using MongoDB, Express, React & No
 </p>
 
 
-
-
 ---
 
 ## 🧩 Contribution Activity
