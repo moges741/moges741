@@ -104,7 +104,7 @@ Building scalable and modern web applications using MongoDB, Express, React & No
 ## Portfolio
 
 🔗 **Live Portfolio:**  
-👉 [https://dev-moges.me/](https://dev-moges.me/)
+👉 [https://moges741.vercel.app](https://moges741.vercel.app)
 
 ---
 
