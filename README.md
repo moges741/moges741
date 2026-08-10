@@ -97,7 +97,8 @@ Building scalable and modern web applications using MongoDB, Express, React & No
 ✔ Backend API Development  
 ✔ Database Design  
 ✔ React Frontend Development  
-🚀 Advanced MERN Architecture (In Progress)
+
+Advanced MERN Architecture (In Progress)
 
 ---
 
