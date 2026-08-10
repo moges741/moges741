@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moges</h1>
 
 <h3 align="center">
-🚀 MERN Full Stack Developer | Software Engineering Student @ Jimma University
+  MERN Full Stack Developer | Software Engineering Student @ Jimma University
 </h3>
 
 <p align="center">
