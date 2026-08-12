@@ -1,121 +1,351 @@
-<h1 align="center">Hi 👋, I'm Moges</h1>
-
-<h3 align="center">
-  MERN Full Stack Developer | Software Engineering Student @ Jimma University
-</h3>
+<h1 align="center">MOGES SISAY</h1>
 
 <p align="center">
-Building scalable and modern web applications using MongoDB, Express, React & Node.js
+  <strong>Software Engineer · Full-Stack Developer · Backend Focused</strong>
+</p>
+
+<p align="center">
+  I design and build scalable software systems, reliable APIs, and modern web applications
+  that solve real-world problems.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moges-sisay-265127354">
-    <img src="https://img.shields.io/badge/LinkedIn-Moges-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/mogesdemo">
-    <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:mogesse741@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://moges741.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## ⚡ Engineering Philosophy
 
-- Passionate **MERN Stack Developer**  
-- Software Engineering Student at **Jimma University (JIT)**  
-- Love building **real-world web applications**  
-- Always learning new technologies & improving problem-solving skills  
-- Goal: Become a world-class Full Stack Engineer  
+> **Understand the problem → Design the system → Build the API → Model the data → Ship the product**
 
+I enjoy turning real-world problems into maintainable software systems.
 
-## ⚡ Tech Stack
-
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-</p>
-
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-</p>
-
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### 🛠 Tools & Environment
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,prisma" />
-</p>
-
---
-
-## Current Focus
-
-- Building **Production-Ready MERN Stack Applications**
-- Learning **Advanced React Patterns & Performance Optimization**
-- Exploring **Cloud & Deployment (Vercel • Render • AWS)**
+My strongest area is **backend engineering**, while I use modern frontend technologies to build complete end-to-end products.
 
 ---
 
-## 📊 GitHub Performance
+## 🏗️ How I Build Software
+
+```text
+                         ┌───────────────────────┐
+                         │       USERS           │
+                         │  Web / Mobile / API   │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────┐
+                         │      FRONTEND         │
+                         │   React / Next.js     │
+                         │   State / UI / UX     │
+                         └───────────┬───────────┘
+                                     │
+                              HTTP / REST / WS
+                                     │
+                                     ▼
+                 ┌────────────────────────────────────┐
+                 │             BACKEND                │
+                 │                                    │
+                 │  Node.js · Express · NestJS        │
+                 │                                    │
+                 │  Authentication                    │
+                 │  Business Logic                    │
+                 │  Validation                        │
+                 │  REST APIs                         │
+                 │  WebSockets                        │
+                 └───────────────┬────────────────────┘
+                                 │
+                    ┌────────────┼─────────────┐
+                    ▼            ▼             ▼
+             ┌────────────┐ ┌──────────┐ ┌───────────┐
+             │ PostgreSQL │ │  Redis   │ │ External  │
+             │            │ │          │ │ Services  │
+             │ Data Model │ │ Caching  │ │ APIs/Auth │
+             └────────────┘ └──────────┘ └───────────┘
+                                 │
+                                 ▼
+                       ┌──────────────────┐
+                       │   Infrastructure │
+                       │ Docker · Vercel  │
+                       │ CI/CD · Cloud    │
+                       └──────────────────┘
+```
+
+### My Engineering Priorities
+
+```text
+Architecture
+     ↓
+Clean APIs
+     ↓
+Reliable Data Models
+     ↓
+Security & Authentication
+     ↓
+Performance
+     ↓
+Maintainability
+     ↓
+Production Deployment
+```
+
+---
+
+## 🧠 Core Engineering Skills
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript" />
+</p>
+
+* REST API architecture
+* Authentication & authorization
+* JWT / session-based authentication
+* Role-based access control
+* API validation & documentation
+* WebSockets / real-time communication
+* Business logic design
+* Database-driven applications
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,redux,tailwind" />
+</p>
+
+* Responsive interfaces
+* Component architecture
+* State management
+* API integration
+* Form validation
+* Performance optimization
+* Modern UI systems
+
+### Data & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma,docker" />
+</p>
+
+* Relational database design
+* PostgreSQL
+* MongoDB
+* Prisma ORM
+* Redis
+* Database migrations
+* Dockerized development environments
+
+### Engineering Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,npm" />
+</p>
+
+---
+
+## 🚀 Selected Systems
+
+### ☕ MrCafe — Smart Cafe Management Platform
+
+A real-world cafe management system designed around operational workflows rather than just CRUD operations.
+
+```text
+                    CUSTOMER
+                       │
+                       ▼
+                 ┌───────────┐
+                 │   MENU    │
+                 └─────┬─────┘
+                       │
+                       ▼
+                 ┌───────────┐
+                 │   ORDER   │
+                 └─────┬─────┘
+                       │
+            ┌──────────┼──────────┐
+            ▼          ▼          ▼
+         CASHIER     KITCHEN    INVENTORY
+            │          │          │
+            └──────────┼──────────┘
+                       ▼
+                 ORDER FULFILLMENT
+```
+
+**Architecture**
+
+`React → NestJS → Prisma → PostgreSQL`
+
+`Redis → Sessions / Caching`
+
+`Socket.IO → Real-time Events`
+
+**Key concepts**
+
+* Role-based access control
+* Inventory workflows
+* Order management
+* Kitchen communication
+* Real-time events
+* PostgreSQL data modeling
+* API documentation with Swagger
+
+---
+
+### 🌐 Digital Essentials Platform
+
+A full-stack platform built around REST APIs, authentication, database architecture, and offline synchronization.
+
+**Backend**
+
+`TypeScript → Node.js → Express → Knex → MySQL`
+
+**Frontend**
+
+`React → Vite → Tailwind CSS`
+
+**Engineering**
+
+* 50+ REST API endpoints
+* 19 database tables
+* JWT authentication
+* Google OAuth
+* Offline synchronization
+* Structured backend architecture
+
+---
+
+## 🔬 Current Engineering Focus
+
+```text
+┌───────────────────────────────────────────────┐
+│                CURRENT FOCUS                   │
+├───────────────────────────────────────────────┤
+│                                               │
+│  ✓ Backend Architecture                       │
+│  ✓ NestJS & TypeScript                        │
+│  ✓ PostgreSQL & Database Design               │
+│  ✓ REST API Design                            │
+│  ✓ Redis & Caching                            │
+│  ✓ Docker & Deployment                        │
+│  → Distributed Systems                        │
+│  → System Design                              │
+│  → Cloud Infrastructure                       │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+---
+
+## 📈 Engineering Journey
+
+```text
+Software Engineering
+        │
+        ├── Programming Fundamentals
+        │
+        ├── Web Development
+        │
+        ├── React & Modern Frontend
+        │
+        ├── Node.js & REST APIs
+        │
+        ├── Database Architecture
+        │
+        ├── TypeScript
+        │
+        ├── NestJS
+        │
+        ├── Docker & Infrastructure
+        │
+        └── System Design  ← CURRENT
+```
+
+I don't aim to simply learn more technologies.
+
+**I aim to understand how systems work and become better at designing them.**
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=moges741&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=moges741&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=moges741&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=moges741&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-
-
----
-
-## Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=moges741&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=moges741&theme=tokyonight&hide_border=true" />
 </p>
-
-
----
-
-## 🧩 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moges741&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moges741&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## Learning Journey
+## 🎯 What I'm Looking For
 
-✔ JavaScript Fundamentals  
-✔ Backend API Development  
-✔ Database Design  
-✔ React Frontend Development  
+I'm interested in opportunities where I can:
 
-Advanced MERN Architecture (In Progress)
-
----
-
-## Portfolio
-
-🔗 **Live Portfolio:**  
-👉 [https://moges741.vercel.app](https://moges741.vercel.app)
+* Build real production software
+* Work with experienced engineers
+* Solve meaningful technical problems
+* Grow deeper into backend engineering
+* Learn system design and scalable architecture
+* Contribute to remote engineering teams
 
 ---
 
-## Let's Connect
+## 🌍 From Ethiopia, Building for the World
 
-- Email: mogesse741@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/moges-sisay-265127354  
-- Telegram: https://t.me/mogesdemo  
+```text
+             PROBLEM
+                │
+                ▼
+         UNDERSTAND USERS
+                │
+                ▼
+        DESIGN THE SYSTEM
+                │
+                ▼
+           BUILD IT
+                │
+                ▼
+          SHIP & LEARN
+                │
+                ▼
+             🌍
+```
+
+> **Today's learner. Tomorrow's software engineer.
+> Eventually, a builder of products that matter.**
 
 ---
 
+## 🔗 Let's Connect
 
+<p align="center">
+  <a href="https://moges741.vercel.app">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/moges-sisay-265127354">LinkedIn</a>
+  ·
+  <a href="https://t.me/mogesdemo">Telegram</a>
+  ·
+  <a href="mailto:mogesse741@gmail.com">Email</a>
+</p>
 
+<p align="center">
+  <i>Building systems. Solving problems. Learning every day.</i>
+</p>
