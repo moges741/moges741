@@ -312,6 +312,7 @@ I don't aim to simply learn more technologies.
   <strong>Currently building:</strong><br/>
   Scalable APIs · Production-ready applications · Real-world software systems
 </p>
+
 ## 🎯 What I'm Looking For
 
 I'm interested in opportunities where I can:
