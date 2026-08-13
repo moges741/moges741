@@ -278,26 +278,40 @@ I don't aim to simply learn more technologies.
 
 ---
 
-## 📊 GitHub Activity & Status
+## 📊 GitHub Activity
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=moges741&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=moges741&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=moges741&theme=tokyo-night&hide_border=true"
+    alt="Moges GitHub Activity"
   />
 </p>
+
+---
+
+## 🟢 Current Status
+
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <strong> Role</strong><br/>
+      Full-Stack Developer
+    </td>
+    <td align="center" width="220">
+      <strong> Focus</strong><br/>
+      Backend Engineering
+    </td>
+    <td align="center" width="220">
+      <strong> Status</strong><br/>
+      Open to Opportunities
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=moges741&theme=tokyonight&hide_border=true"
-  />
+  <strong>Currently building:</strong><br/>
+  Scalable APIs · Production-ready applications · Real-world software systems
 </p>
-
 ## 🎯 What I'm Looking For
 
 I'm interested in opportunities where I can:
