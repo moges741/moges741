@@ -280,19 +280,17 @@ I don't aim to simply learn more technologies.
 
 ## 📊 GitHub Activity
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=moges741&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=moges741&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moges741&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moges741&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=moges741&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=moges741&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moges741&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ## 🎯 What I'm Looking For
