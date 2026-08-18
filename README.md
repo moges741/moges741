@@ -230,7 +230,7 @@ A full-stack platform built around REST APIs, authentication, database architect
 
 ```text
 ┌───────────────────────────────────────────────┐
-│                CURRENT FOCUS                   │
+│                CURRENT FOCUS                  │
 ├───────────────────────────────────────────────┤
 │                                               │
 │  ✓ Backend Architecture                       │
